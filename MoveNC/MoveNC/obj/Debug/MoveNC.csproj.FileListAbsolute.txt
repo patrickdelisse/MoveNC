@@ -1,0 +1,21 @@
+K:\Systems\Visual Basic Applications\C Sharp.NET\MoveNC\MoveNC\bin\Debug\MoveNC.exe.config
+K:\Systems\Visual Basic Applications\C Sharp.NET\MoveNC\MoveNC\bin\Debug\MoveNC.exe
+K:\Systems\Visual Basic Applications\C Sharp.NET\MoveNC\MoveNC\bin\Debug\MoveNC.pdb
+K:\Systems\Visual Basic Applications\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.csprojResolveAssemblyReference.cache
+K:\Systems\Visual Basic Applications\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.csproj.CoreCompileInputs.cache
+K:\Systems\Visual Basic Applications\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.exe
+K:\Systems\Visual Basic Applications\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.pdb
+C:\Users\pdl\stack\Visual Studio\C Sharp.NET\MoveNC\MoveNC\bin\Debug\MoveNC.exe.config
+C:\Users\pdl\stack\Visual Studio\C Sharp.NET\MoveNC\MoveNC\bin\Debug\MoveNC.exe
+C:\Users\pdl\stack\Visual Studio\C Sharp.NET\MoveNC\MoveNC\bin\Debug\MoveNC.pdb
+C:\Users\pdl\stack\Visual Studio\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.csprojResolveAssemblyReference.cache
+C:\Users\pdl\stack\Visual Studio\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.csproj.CoreCompileInputs.cache
+C:\Users\pdl\stack\Visual Studio\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.exe
+C:\Users\pdl\stack\Visual Studio\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.pdb
+K:\Systems\Visual Studio Applications\C Sharp.NET\MoveNC\MoveNC\bin\Debug\MoveNC.exe.config
+K:\Systems\Visual Studio Applications\C Sharp.NET\MoveNC\MoveNC\bin\Debug\MoveNC.exe
+K:\Systems\Visual Studio Applications\C Sharp.NET\MoveNC\MoveNC\bin\Debug\MoveNC.pdb
+K:\Systems\Visual Studio Applications\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.csprojResolveAssemblyReference.cache
+K:\Systems\Visual Studio Applications\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.csproj.CoreCompileInputs.cache
+K:\Systems\Visual Studio Applications\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.exe
+K:\Systems\Visual Studio Applications\C Sharp.NET\MoveNC\MoveNC\obj\Debug\MoveNC.pdb
